@@ -42,6 +42,10 @@ const members = [
   factory.create('Vladilen', 'simple'),
   factory.create('Elena', 'premium'),
   factory.create('John', 'standard'),
+  factory.create('Smith', 'premium'),
+  factory.create('Dean')
 ];
 
-console.log(members);
+members.forEach(item => {
+  // item.define();
+});
