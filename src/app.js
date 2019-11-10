@@ -1,7 +1,8 @@
-import * as Constructor from './patterns/creational/1_constructor';
-import * as Factory from './patterns/creational/2_factory';
-import * as Prototype from './patterns/creational/3_prototype';
-import * as Singleton from './patterns/creational/4_singleton';
+import * as Constructor from './patterns/1_creational/1_constructor';
+import * as Factory from './patterns/1_creational/2_factory';
+import * as Prototype from './patterns/1_creational/3_prototype';
+import * as Singleton from './patterns/1_creational/4_singleton';
+import * as Adapter from './patterns/2_structural/5_adapter';
 
 // const greeting = 'Hello World';
 // console.log(greeting);
