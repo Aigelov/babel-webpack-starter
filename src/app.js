@@ -1,3 +1,4 @@
+import * as Constructor from './1_constructor';
 import * as Factory from './2_factory';
 
 // const greeting = 'Hello World';
