@@ -1,6 +1,5 @@
 class Database {
   constructor(data) {
-    console.log(Database.instance);
     if (Database.exists) {
       return Database.instance;
     }
