@@ -4,6 +4,7 @@ import * as Prototype from './patterns/1_creational/3_prototype';
 import * as Singleton from './patterns/1_creational/4_singleton';
 import * as Adapter from './patterns/2_structural/5_adapter';
 import * as Decorator from './patterns/2_structural/6_decorator';
+import * as Facade from './patterns/2_structural/7_facade';
 
 // const greeting = 'Hello World';
 // console.log(greeting);
