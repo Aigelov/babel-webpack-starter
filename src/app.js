@@ -5,6 +5,7 @@ import * as Singleton from './patterns/1_creational/4_singleton';
 import * as Adapter from './patterns/2_structural/5_adapter';
 import * as Decorator from './patterns/2_structural/6_decorator';
 import * as Facade from './patterns/2_structural/7_facade';
+import * as Flyweight from './patterns/2_structural/8_flyweight';
 
 // const greeting = 'Hello World';
 // console.log(greeting);
