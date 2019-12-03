@@ -14,8 +14,8 @@ class Database {
   }
 }
 
-const mongo = new Database('MongoDB');
-// console.log(mongo.getData());
-
-const postgresql = new Database('PostgreSQL');
+// const postgresql = new Database('PostgreSQL');
 // console.log(postgresql.getData());
+//
+// const mongo = new Database('MongoDB');
+// console.log(mongo.getData());

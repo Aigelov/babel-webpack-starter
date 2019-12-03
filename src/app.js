@@ -6,6 +6,7 @@ import * as Adapter from './patterns/2_structural/5_adapter';
 import * as Decorator from './patterns/2_structural/6_decorator';
 import * as Facade from './patterns/2_structural/7_facade';
 import * as Flyweight from './patterns/2_structural/8_flyweight';
+import * as Proxy from './patterns/2_structural/9_proxy';
 
 // const greeting = 'Hello World';
 // console.log(greeting);
